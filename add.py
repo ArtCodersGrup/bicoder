@@ -9,6 +9,7 @@ import csv
 import traceback
 import time
 import random
+hello
 
 re="\033[1;31m"
 gr="\033[1;32m"

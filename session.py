@@ -14,7 +14,6 @@ from telethon.tl.types import ChannelParticipantsSearch
 # класс для работы с сообщениями
 from telethon.tl.functions.messages import GetHistoryRequest
 
-
 # Присваиваем значения внутренним переменным
 api_id = 16220734
 api_hash = '6b03083238042a2d9345483104a71263'
